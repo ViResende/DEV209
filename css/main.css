@@ -3392,7 +3392,7 @@ input, select, textarea {
 	}
 
 	#banner {
-		background-image: linear-gradient(to top, rgba(46, 49, 65, 0.6), rgba(46, 49, 65, 0.6)), url("../../images/vitoria.portifolio.PNG");
+                background-image: linear-gradient(to top, rgba(46, 49, 65, 0.6), rgba(46, 49, 65, 0.6)), url("../images/vitoria.portifolio.PNG");
 		background-size: cover;
 		background-position: center 42%;
 		background-repeat: no-repeat;
